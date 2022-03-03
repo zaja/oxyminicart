@@ -1,7 +1,7 @@
 # OxyMinicart
 
 
-This code  allows you to display an simple AJAX minicart in Oxygen Builder template. It display Cart Icon, Counter and Total and it is linked to Woocommerce Shoping Cart section. No dropdowns or any fancy features, just a light fast and simple minicart that supports the AJAX add to cart option.
+This code  allows you to display an simple AJAX minicart in Oxygen Builder template. It display Cart Icon, Counter and Total with shop currency and it is linked to Woocommerce Shoping Cart section. No dropdowns or any fancy features, just a light fast and simple minicart that supports the AJAX add to cart option.
 
 ![oxyminicart](https://user-images.githubusercontent.com/1156059/156540426-b917725f-18eb-4060-b2ad-4b785d530734.jpg)
 
