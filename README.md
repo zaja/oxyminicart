@@ -22,7 +22,7 @@ Installation:
 add_filter( 'woocommerce_add_to_cart_fragments', 'icon_minicart_count_fragments', 10, 1 );
 function icon_minicart_count_fragments( $fragments ) {
    $fragments['div.minicount'] = '<div class="minicount">' . WC()->cart->get_cart_contents_count() . '</div>';
-	$fragments['div.minitotal'] = '<div class="minitotal">' . WC()->cart->get_cart_total() . '</div>';
+   $fragments['div.minitotal'] = '<div class="minitotal">' . WC()->cart->get_cart_total() . '</div>';
     return $fragments; 
 }
 ```
