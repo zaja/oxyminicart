@@ -30,7 +30,7 @@ function icon_minicart_count_fragments( $fragments ) {
 6. Click "Save Changes and Activate" button
 
 
-2.Now lets add Reusable part in Oxygen Builder
+2.Now let's add Reusable part in Oxygen Builder
 -------------------------------------------------
 
 1. Go to Oxygen > Templates and click "Add New Reusable Part"
